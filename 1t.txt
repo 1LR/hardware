@@ -1,0 +1,28 @@
+url: https://github.com/1LRO/HW.git
+
+
+
+mkdir HW
+
+
+cd HW
+
+
+git init
+
+
+git ls-files
+
+
+ls
+
+
+git status
+
+
+git add passos.txt
+
+
+
+
+		
