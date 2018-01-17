@@ -1,11 +1,11 @@
-url: https://github.com/1LRO/HW.git
+url: 
 
 
 
-mkdir HW
+mkdir hardware
 
 
-cd HW
+cd hardware
 
 
 git init
@@ -20,8 +20,20 @@ ls
 git status
 
 
-git add passos.txt
+git add 1t.txt
 
+
+git status
+
+
+git commit -m "Passos para construção do repositório"
+
+
+git config user.name "Luiz Ricardo"
+git config user.email "ricardo_moisan@hotmail.com"
+
+
+git status
 
 
 
